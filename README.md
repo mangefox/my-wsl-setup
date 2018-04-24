@@ -12,6 +12,7 @@ Here’s a breakdown of how I got up and running below:
 
 ### Get your terminal looking pretty pt.1
 - Download Hyper.js [here](https://hyper.is/) - I went with the 'hyperblue' theme.
+- `hyper-oceans16` is another nice theme (https://github.com/henrikdahl/hyper-oceans16)
 
 ### Automatically open in Bash
 - Open up Hyper and type `Ctrl` + `,`
