@@ -10,6 +10,9 @@ Here’s a breakdown of how I got up and running below:
 ### Download & Install the WSL
 - Follow the very thorough instructions [here](https://msdn.microsoft.com/en-au/commandline/wsl/install_guide)
 
+### Install NodeJs
+- Install nodejs from here http://www.nodejs.org
+
 ### Get your terminal looking pretty pt.1
 - Download Hyper.js [here](https://hyper.is/) - I went with the 'hyperblue' theme.
 - `hyper-oceans16` is another nice theme (https://github.com/henrikdahl/hyper-oceans16)
